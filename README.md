@@ -1,0 +1,2 @@
+# FreeRTOS_study_notes
+个人学习freertos的记录，目前是在学习韦东山老师的课程（基于DSMCU103开发板）
